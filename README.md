@@ -57,3 +57,20 @@ Matplotlib
 EDA
 User-Defined Functions
 
+
+5.
+EasyVisa
+Course: Robust Data Modeling with Ensembling and Tuning Techniques
+This project, as a data scientist at EasyVisa, have to analyze the data provided and, with the help of a classification model:
+Facilitate the process of visa approvals.
+Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status.
+This involves choosing the various models and finding the metrics for given dataset, oversampled and undersampled data,  as well as hypertuning for the best parameters for the following models.
+i. Decision Tree
+ii. Bagging Classifier
+iii. AdaBoostClassifier
+iv. GradientBoost Classifier
+v. XGBClassifier
+vi. RandomForestClassifier
+
+Skills and Tools
+Ensemble Models, Tuning Data models
