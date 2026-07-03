@@ -3,7 +3,7 @@ Associated .pynb and Business Reports are published
 
 1.
 INN Hotels - Booking Cancellation Prediction
-Course: Classification Techniques for Predictive Modeling
+Topic: Classification Techniques for Predictive Modeling
 This project aims to develop machine learning models to predict booking cancellations for INN Hotels Group. We aim to optimize cancellation policies, reduce revenue loss, and enhance overall hotel operations by analyzing booking data and identifying key influencing factors.
 
 Skills & Tools Covered
@@ -16,7 +16,7 @@ Classification metrics
 
 2.
 ShowTime - OTT Data Analysis
-Course: Predictive Modeling with Linear Regression
+Topic: Predictive Modeling with Linear Regression
 This project analyzes content data to develop a linear regression model predicting first-day viewership on ShowTime's OTT platform. By identifying key driver variables, we aim to optimize content scheduling, marketing strategies, and platform features to increase viewership and enhance user engagement.
 
 Skills & Tools Covered
@@ -29,7 +29,7 @@ Regression metrics
 
 3.
 Inferential Statistics Coded Project
-Course: Decision Making with Business Statistics
+Topic: Decision Making with Business Statistics
 Analyze the datasets provided and use the concepts of Inferential Statistics to solve business problems and answer specific questions - insights on stone suitability for printing, the effectiveness of a fitness program, and the impact of dentists and implant methods on metal implant hardness - to enable data-driven decision-making and operational improvements.
 
 Skills & Tools Covered
@@ -45,7 +45,7 @@ Bayes Theorem
 
 4.
 Austo Automobile Analysis
-Course: Data-driven Insights using Python
+Topic: Data-driven Insights using Python
 This project leverages data analytics to optimize marketing campaigns for Austo Motor Company. By analyzing customer data, we aim to identify effective marketing channels, tailor communications to specific customer segments, and ultimately improve customer satisfaction and sales.
 
 Skills & Tools Covered
@@ -60,7 +60,7 @@ User-Defined Functions
 
 5.
 EasyVisa
-Course: Robust Data Modeling with Ensembling and Tuning Techniques
+Topic: Robust Data Modeling with Ensembling and Tuning Techniques
 This project, as a data scientist at EasyVisa, have to analyze the data provided and, with the help of a classification model:
 Facilitate the process of visa approvals.
 Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status.
@@ -74,3 +74,13 @@ vi. RandomForestClassifier
 
 Skills and Tools
 Ensemble Models, Tuning Data models
+
+6. AllLife Bank
+Topic: Pattern Discovery with Unsupervised Learning
+This project aims to segment AllLife Bank's credit card customers based on their spending patterns and past interactions. By leveraging clustering algorithms, we will identify distinct customer segments and provide tailored recommendations for marketing and service delivery. This will enable AllLife Bank to optimize customer acquisition and retention efforts, enhance customer satisfaction, and drive overall business growth.
+
+Skills and Tools
+Exploratory Data Analysis, Data Scaling, Clustering,
+K-Means Clustering, Hierarchical Clustering,
+Silhouette Score, Cophenetic Correlation
+Dimensionality Reduction, Cluster Profiling
